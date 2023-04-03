@@ -6,7 +6,7 @@
     /* box-sizing: border-box; */
 }
 #header{
-    background: linear-gradient(rgba(0,0,0,0.5),#eab764),url("background.jpg");
+    background: linear-gradient(rgba(0,0,0,0.5),#eab764),url("https://github.com/pavankalyan-kadaru/leflon/blob/main/background.jpg");
     background-size: cover;
     background-position: center;
     height: 100vh;
